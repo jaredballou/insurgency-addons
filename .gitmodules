@@ -1,6 +1,0 @@
-[submodule "metamod"]
-	path = metamod
-	url = git@github.com:jaredballou/metamod-source.git
-[submodule "sourcemod"]
-	path = sourcemod
-	url = git@github.com:jaredballou/insurgency-sourcemod.git
