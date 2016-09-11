@@ -1,0 +1,3 @@
+[submodule "sourcemod"]
+	path = sourcemod
+	url = git@github.com:jaredballou/insurgency-sourcemod.git
